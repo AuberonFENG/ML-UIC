@@ -1,0 +1,5 @@
+!pip install tensorflow
+!pip install keras
+!pip install  -U efficientnet
+!pip install numpy
+!pip install matplotlib
